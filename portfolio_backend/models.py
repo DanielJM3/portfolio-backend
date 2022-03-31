@@ -1,4 +1,4 @@
-from shopping_site import db, login_manager
+from portfolio_backend import db, login_manager
 from datetime import datetime
 from flask_login import UserMixin
 
